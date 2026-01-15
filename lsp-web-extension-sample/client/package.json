@@ -13,9 +13,11 @@
 		"vscode": "^1.100.0"
 	},
 	"dependencies": {
+		"koa": ">=2.16.2",
 		"vscode-languageclient": "^9.0.1"
 	},
 	"devDependencies": {
+		"koa": ">=2.16.2",
 		"@types/vscode": "^1.100.0",
 		"@vscode/test-web": "^0.0.51"
 	}
