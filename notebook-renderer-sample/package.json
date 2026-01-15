@@ -39,7 +39,7 @@
     "@stylistic/eslint-plugin": "^2.9.0",
     "@types/vscode-notebook-renderer": "^1.57.8",
     "@types/webpack-env": "^1.17.0",
-    "css-loader": "^4.2.0",
+    "css-loader": "^7.1.2",
     "eslint": "^9.13.0",
     "style-loader": "^1.2.1",
     "ts-loader": "^9.2.2",
