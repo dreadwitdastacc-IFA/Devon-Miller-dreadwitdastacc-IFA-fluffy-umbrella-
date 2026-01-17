@@ -239,7 +239,7 @@ export class FiddleSourceControl implements vscode.Disposable {
 	/** Determines whether the resource is different, regardless of line endings. */
 	isDirty(doc: vscode.TextDocument): boolean {
 		const originalText = this.fiddle.data[toExtension(doc.uri)];
-		return originalText.replace('\r', '') !== doc.getText().replace('\r', '');
+		return originalText.replace(/\r/g, '') !== doc.getText().replace(/\r/g, '');
 	}
 
 	toSourceControlResourceState(docUri: vscode.Uri, deleted: boolean): vscode.SourceControlResourceState {
