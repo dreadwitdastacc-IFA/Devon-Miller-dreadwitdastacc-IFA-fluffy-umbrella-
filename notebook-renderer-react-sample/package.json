@@ -56,7 +56,7 @@
 		"typescript": "^5.9.2",
 		"typescript-eslint": "^8.39.0",
 		"vscode-notebook-error-overlay": "^1.0.1",
-		"webpack": "^5.38.1",
+		"webpack": "^5.105.4",
 		"webpack-cli": "^4.7.0"
 	}
 }
