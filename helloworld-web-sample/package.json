@@ -34,10 +34,10 @@
 		"lint": "eslint"
 	},
 	"dependencies": {
-		"koa": ">=3.1.2"
+		"koa": ">=3.2.0"
 	},
 	"devDependencies": {
-		"koa": ">=3.1.2",
+		"koa": ">=3.2.0",
 		"@eslint/js": "^9.13.0",
 		"@stylistic/eslint-plugin": "^2.9.0",
 		"@types/mocha": "^10.0.10",
