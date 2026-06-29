@@ -83,8 +83,8 @@
 		"typescript-eslint": "^8.39.0"
 	},
 	"dependencies": {
-		"dompurify": "^3.4.2",
+		"dompurify": "^3.4.11",
 		"jsdom": "^26.1.0",
-		"mermaid": "^11.13.0"
+		"mermaid": "^11.15.0"
 	}
 }
